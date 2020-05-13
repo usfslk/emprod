@@ -1,0 +1,49 @@
+/* 
+Youssef Selkani
+2020 
+*/
+
+.master {
+  width: 100%;
+  min-height: 80vh;
+  padding-top: 2vh !important;
+  padding-bottom: 2vh !important;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.slave {
+  margin: 0 auto !important;
+  padding: 3em;
+  background-color: #fff;
+  /* box-shadow: 0 5px 50px rgba(0, 0, 0, 0.01), 0 0px 15px rgba(0, 0, 0, 0.05); */
+}
+
+.mtb {
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+}
+
+.mtbs {
+  margin-top: 1.5vh;
+  margin-bottom: 1.5vh;
+}
+
+.mt {
+  margin-top: 5vh;
+}
+
+.mts {
+  margin-top: 1.5vh;
+}
+
+.mb {
+  margin-bottom: 5vh;
+}
+
+.mbs {
+  margin-bottom: 1.5vh;
+}
+
+.center {
+  text-align: center;
+}
